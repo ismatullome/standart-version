@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
+    "conventional-changelog-conventionalcommits": "^6.1.0",
     "standard-version": "^9.5.0"
   },
   "scripts": {
